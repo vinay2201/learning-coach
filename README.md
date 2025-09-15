@@ -1,4 +1,4 @@
-# 🎓 Hyper-Personalized Learning Coach (RAG Tutor)
+# 🎓 Personalized Learning Coach (RAG Tutor)
 
 A fast, grounded learning assistant you can run locally. Upload your course materials
 (PDF/Markdown/TXT), ask questions with citations, and generate quizzes.
