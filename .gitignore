@@ -1,0 +1,22 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data & indices (keep your content private)
+data/
+!data/.gitkeep
+
+# Secrets
+.env
+*.env
+
+# Logs / temp
+*.log
+*.tmp
